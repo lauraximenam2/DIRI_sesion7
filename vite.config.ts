@@ -7,7 +7,7 @@ export default defineConfig(({ mode }) => {
 
   return {
     //URL base para el despliegue.
-    base: env.VITE_APP_BASE_URL || '/DIRI_sesion8/',
+    base: env.VITE_APP_BASE_URL || '/DIRI_sesion7/',
 
     plugins: [react()],
 
